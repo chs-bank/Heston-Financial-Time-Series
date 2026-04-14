@@ -35,7 +35,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/Heston-Financial-Time-Series.git
+git clone https://github.com/chs-bank/Heston-Financial-Time-Series.git
 cd Heston-Financial-Time-Series
 ```
 
