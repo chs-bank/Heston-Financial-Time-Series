@@ -35,7 +35,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/Heston-Financial-Time-Series.git
+git clone https://github.com/chs-bank/Heston-Financial-Time-Series.git
 cd Heston-Financial-Time-Series
 ```
 
@@ -65,7 +65,7 @@ run heston_model.m
 ## 📊 核心功能
 
 - **参数估计**：从真实股价数据估计 Heston 模型五大参数（κ, θ, σᵥ, ρ, v₀）
-- **蒙特卡洛模拟**：生成多条未来股票价格路径
+- **蒙特卡洛模拟**：生成未来股票价格路径
 - **风险指标计算**：年化收益率、波动率、夏普比率、VaR、最大回撤
 - **交互式看板**：使用 Plotly 生成 8 个子图的综合投资分析面板（HTML + PNG）
 
